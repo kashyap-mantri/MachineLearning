@@ -1,5 +1,4 @@
-# MachineLearning
-Applying Machine Learning techniques on diverse popular Data sets
+# Bike Share Demand Prediction
 
 <h2>Forecast use of a city bikeshare system</h2>
 <p/>
